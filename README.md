@@ -8,4 +8,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0507-perfect-number](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/0507-perfect-number/) | Easy |
 | [2235-add-two-integers](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/2235-add-two-integers/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1816-truncate-sentence](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/1816-truncate-sentence/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1816-truncate-sentence](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/1816-truncate-sentence/) | Easy |
 <!---LeetCode Topics End-->
