@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0507-perfect-number](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/0507-perfect-number/) | Easy |
 | [2235-add-two-integers](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/2235-add-two-integers/) | Easy |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
