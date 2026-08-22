@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0520-detect-capital](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/0520-detect-capital/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1816-truncate-sentence](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/1816-truncate-sentence/) | Easy |
 ## Two Pointers
