@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1816-truncate-sentence](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/1816-truncate-sentence/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/2706-buy-two-chocolates/) | Easy |
 ## String
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0520-detect-capital](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/0520-detect-capital/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1816-truncate-sentence](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/1816-truncate-sentence/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
