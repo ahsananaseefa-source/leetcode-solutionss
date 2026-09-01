@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-shuffle-string](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/1528-shuffle-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1816-truncate-sentence](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/1816-truncate-sentence/) | Easy |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/2706-buy-two-chocolates/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -35,5 +36,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/2706-buy-two-chocolates/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 <!---LeetCode Topics End-->
