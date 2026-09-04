@@ -55,4 +55,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/0191-number-of-1-bits/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
