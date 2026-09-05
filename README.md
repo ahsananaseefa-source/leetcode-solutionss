@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0507-perfect-number](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/0507-perfect-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/0509-fibonacci-number/) | Easy |
 | [2235-add-two-integers](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/2235-add-two-integers/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 ## Array
@@ -63,4 +64,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/0191-number-of-1-bits/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
