@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/0070-climbing-stairs/) | Easy |
 | [0507-perfect-number](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/0509-fibonacci-number/) | Easy |
 | [2235-add-two-integers](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/2235-add-two-integers/) | Easy |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -75,5 +77,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
