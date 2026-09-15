@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/0035-search-insert-position/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1528-shuffle-string](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/1528-shuffle-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/0035-search-insert-position/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
