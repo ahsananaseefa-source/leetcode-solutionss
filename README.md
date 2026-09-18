@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1816-truncate-sentence](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/1816-truncate-sentence/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/2706-buy-two-chocolates/) | Easy |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/ahsananaseefa-source/leetcode-solutionss/tree/main/3000-maximum-area-of-longest-diagonal-rectangle/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
